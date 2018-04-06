@@ -1,0 +1,345 @@
+﻿/* CSS document*/
+*{
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+}
+body{
+	font-family: sans-serif;
+	margin:auto;
+	max-width: 960px;
+}
+#page
+{	margin: auto;
+	width: 960px;
+	height: auto;
+}
+#vs{
+	border-radius: 10px;
+
+}
+#menu{
+	width: 960px;
+	height: auto;
+	
+}
+#menu ul {
+	list-style-type: none;
+	background: #1f5688;
+	text-align: center;
+	margin: auto;
+}
+#menu ul li{
+	display: inline-table;
+	width: 120px;
+	height: 40px;
+	line-height: 40px;
+	position: relative;
+	
+}
+#menu ul li a{
+	color:#f1f1f1;
+	text-decoration: none;
+	display: block;
+	
+}
+#menu ul li a:hover{
+background: #f1f1f1;
+color: #333;
+}
+#menu ul li > .cap1{
+	display: none;
+	position: absolute;
+	margin: 0px;
+	padding: 0px;
+	width: 240px;
+	height: 160px;
+
+}
+#menu ul li > .cap1 li{
+ float: left;
+}
+#menu ul li:hover .cap1{
+	display: block;
+}
+#banner{
+
+	width: 960px;
+	height: 300px;
+}
+#banner img{
+	width: 100%;
+	height: 100%;
+	border-radius: 10px;
+}
+.lichsu{
+    background: #f7f7f7;
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+    list-style-type: none;
+    width: 70%;
+    float: left;
+
+}
+.lichsu{
+	width: 960px;
+	height: 40px;
+}
+}
+.lichsu ul li a{
+text-decoration: none;
+}
+.icon{
+	float: left;
+	background-image:url(imgtk/home.png);
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	width: 30px;
+	height:30px;
+	
+}
+.loai{
+	clear: both;
+	width: 100%;
+	line-height: 40px;
+	margin-top: 0px;
+
+}
+*{
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+}
+#nd{
+	background: #AEAEAE;
+}
+.loai label{
+	display: block;
+	color: #f1f1f1;
+	width: 200px;
+	background:#1f5688;
+	font-weight: bold;
+	font-size: 20px;
+	text-align: center;
+	border-radius: 0 0 30px 0;
+}
+.sanpham{
+	
+	width: 230px;
+	height: 300px;
+	float: left;
+	border: 1px solid #999;
+	margin-left: 5px;
+	margin-right: 5px;
+	text-align: center;
+	padding: 0;
+	background: #f3f3f3;
+}
+.sanpham img{
+	width: 100%;
+	height: 80%;
+	margin: 0;
+	padding: 0;
+	
+}
+
+.tt h3{
+	font-size: 16px;
+	margin: 0;
+	display: block;
+	height: 30px;
+}
+.tt strong{
+	color: red;
+	margin: 0;
+	font-size: 16px;
+	
+}
+footer{
+	clear: both;
+}
+/*-----------------CSS page chitiep.php*/
+.title{
+	width: 100%;
+	height: 40px;
+	line-height: 40px;
+	font-size: 24px;
+	border-bottom: 1px solid #999;
+
+}
+.ctsp{
+	width: 400px;
+	height: 460px;
+	margin: 10px 10px 10px 10px;
+	float: left;
+}
+.ctsp img
+	{
+	width: 100%;
+	height: 100%;
+	}
+fieldset
+	{
+	margin: 10px 10px 10px 10px;
+	width:400px;
+	height: 400px;
+	border: 1px solid #1f5688;
+	float:left;
+	border-radius: 10px;
+	color:blue;
+	}
+legend{
+	font-weight: bold;
+	font-size: 24px;
+}
+/*--------------------------------------*/
+#seach{
+	
+	float:right;
+	width: 25%;
+}
+/*-----------CSS phanloai.php------------------------*/
+*{
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+}
+#cot1{
+	width: 230px;
+	height: 550px;
+	
+	margin-top:20px;
+	float:left;
+}
+/*---------nav cot 1--------------*/
+*{
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+}
+#nav1{
+	background: #999;
+	border-radius: 10px;
+	height: 100%;
+}
+#nav1 ul{
+
+	list-style-type: none;
+	text-align: center;
+	margin-left: 50px;
+}
+#nav1 ul li{
+	width: 120px;
+	height: 40px;
+	line-height: 40px;
+	display: block;
+	border: 1px solid #f1f1f1;
+}
+#nav1 ul li a{
+	text-decoration: none;
+	display: block;
+	color: #f1f1f1;
+	background: #1f5688;
+}
+#nav1 ul li a:hover{
+	background: #f1f1f1;
+	color:#333;
+}
+/*--------------------------------*/
+#cot2{
+	width: 730px;
+	height: 550px;
+	
+	margin-top:20px;
+	float: left;
+	position: relative;
+	background: #f7f7f7;
+}
+.sanpham1{
+	
+	width: 172px;
+	height: 250px;
+	float: left;
+	border: 1px solid #999;
+	margin:5px 5px 5px 5px;
+	text-align: center;
+	padding: 0;
+	background: #f1f1f1;
+	
+}
+.sanpham1 img{
+	width: 100%;
+	height: 80%;
+	margin: 0;
+	padding: 0;
+	
+	
+}
+.tt1 h3{
+	font-size: 13px;
+	margin: 0;
+	display: block;
+	height: 30px;
+}
+.tt1 strong{
+	color: red;
+	margin: 0;
+	font-size: 13px;}
+#pt{
+	clear: both;
+	position: absolute;
+	top:520px;
+	left:300px;
+}	
+#pt ul{
+	list-style-type: none;
+	text-align: center;
+	
+}
+#pt ul li{
+	display: inline-table;
+	width: 80px;
+	height: 20px;
+	line-height: 20px;
+	margin: 3px;
+}
+#pt ul li a{
+	text-decoration: none;
+	display: block;
+	color:#f1f1f1;
+	background:#1f5688;
+}
+#pt a{
+	text-decoration: none;
+	color:#f1f1f1;
+	background:#1f5688;
+	margin-left: 5px;
+	margin-right: 5px;
+}
+.pageht{
+	font-weight: bold;
+	background:#999;
+}
+
+/*---------------------------------------------------*/
+/*-----------------------CSS timkiem.php---------*/
+#cot3{
+	width: 730px;
+	height: 550px;
+	margin-top:20px;
+	float: left;
+	position: relative;
+	background: #f7f7f7;
+}
+/*-----------------------CSS timkiem.php--------*/
+/*-------------------------footer*/
+footer{
+	clear: both;
+	background-image: url(imgtk/footer.png);
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	width: 960px;
+	height: 80px;
+}
+/*--------------------------footer*/

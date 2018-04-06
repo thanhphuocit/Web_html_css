@@ -1,0 +1,26 @@
+﻿Apple đã chính thức ra mắt iOS 10 được vài tuần với rất nhiều thay đổi và tính năng
+ hữu ích cho người dùng. Tuy nhiên, có khá nhiều người dùng phàn nàn vì thiết bị
+ trở nên chậm chạp sau khi nâng cấp. Các bạn có thể tham khảo một số cách xử lý 
+sau để khắc phục tình trạng trên nhé!
+
+1. Dọn dẹp bộ nhớ
+
+Việc đầu tiên bạn cần làm để lật ngược tình thế không gì khác là hãy dọn dẹp lại bộ 
+nhớ của thiết bị.
+
+Dù là thiết bị vài chục triệu hay vài trăm ngàn thì sau một thời gian sử dụng đều sẽ
+ có dấu hiệu ì ạch nếu không có kế hoạch dọn dẹp. Đặc biệt với các thiết bị từ nhà 
+Táo không hỗ trợ khe cắm thẻ nhớ thì việc dọn dẹp dữ liệu là vô cùng cần thiết. 
+
+Hãy kiểm tra dung lượng trống của thiết bị. Nếu như bộ nhớ trong đang trong tình
+ trạng quá tải, bạn nên loại bỏ bớt những dữ liệu không thực sự cần thiết. Bằng cách 
+này bạn có thể phần nào cải thiện được tốc độ cho iPhone của mình.
+
+Để kiểm tra dung lượng trống trên iPhone bạn truy cập vào Cài 
+đặt nhấn chọn Cài đặt chung sau đó chọn Dung lượng & Sử dụng iCloud.
+
+
+Như vậy tình trạng iOS 10 xảy ra giật, lag là có thực và xảy ra ở hầu hết các thiết bị của Apple
+ sau khi nâng cấp lên hệ điều hành mới. Nếu khó chịu với các hiện tượng này, bạn có thể áp dụng
+ một số phương pháp ở trên để xử lý. Hi vọng Apple sớm tung ra bản vá lỗi mới trong thời gian sớm 
+nhất để mang đến những trải nghiệm tốt nhất cho người dùng.

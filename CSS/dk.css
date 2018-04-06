@@ -1,0 +1,113 @@
+﻿@charset "utf-8";
+/* CSS Document */
+body{ font-family:Arial,verdana,sans-serif;
+	font-size:90%;
+		}
+	fieldset{
+			width:650px;
+			margin-top: 10px;
+			margin-left: 250px;
+			padding:20px;
+			text-align:left;
+			background-color:#e9ebf3;
+			font-size:15px;
+			min-height:100px;
+			max-width:1000px;
+			min-width:100px;
+			
+		}
+	input{	font-size:26px;
+		
+		}
+	input[name="fname"],input[name="lname"]
+	{
+		width:240px;
+		height:35px;
+		border:1px solid rgba(38,35,35,1.00);
+		border-radius:5px;
+		margin-left: 2px; 
+		padding:5px;
+		float:left;	
+		margin-right: 5px;
+	}
+	input[name="fname"]:focus,input[name="lname"]:focus
+	{
+		width: 240px;
+		height:35px;
+		border:1px solid rgba(54,47,47,1.00);
+		border-radius:5px;
+		margin-left: 2px;
+		padding:5px;
+		float:left;
+		margin-right: 5px;	
+	}
+	input[name="rpass"],input[name="pass"],input[name="user"]
+	{
+		width: 500px;
+		height:35px;
+		border:1px solid rgba(54,47,47,1.00);
+		border-radius:5px;
+		margin-left:2px;
+		margin-top:20px;
+		padding:5px;
+	}
+	input[name="rmatkhau"]:focus, input[name="tentk"]:focus,input[name="matkhau"]:focus
+	{
+		width: 500px;
+		height:35px;
+		border:1px solid rgba(132,184,232,1.00);
+		border-radius:5px;
+		margin-left:2px;
+		margin-top:20px;
+	}
+	select[name="ngaysinh"],select[name="thangsinh"],select[name="namsinh"]{ height:30px;
+	width:80px;
+	
+		
+		}
+	a{	position:absolute; 
+				left: 295px;
+    			top: 495px;
+				font-size:12px;
+				text-decoration:none;
+		
+		}
+		.nho{ font-size:10px;
+			
+			}
+			.dau{ font-size:30px;
+
+			}
+		.dau1{ font-size:20px;
+
+			}
+	input[type="submit"]{
+			width:240px;
+			height:45px;
+			border-radius:8px;
+			background-color: rgba(46,181,61,1.00);
+			font-size:26px;
+			color:#FFF;
+			text-shadow: 2px 2px 8px #000000;
+	}
+	input[type="submit"]:hover{
+			width:240px;
+			height:40px;
+			border-radius:5px;
+			background-color: rgba(175,219,152,1.00);
+			color:#FFF;
+			text-shadow: 4px 4px 8px #000000;
+		}			
+
+	#kt{	position:absolute; 
+				left: 550px;
+    			top: 170px;
+				
+		
+		}
+		#kt1{	position:absolute; 
+				left: 50px;
+    			top: 190px;
+				
+		
+		}

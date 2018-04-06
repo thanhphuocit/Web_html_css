@@ -1,0 +1,101 @@
+/*CSS document*/
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+#tintuc{
+	margin-top:40px;
+
+}
+
+.tcot1{
+	width: 600px;
+	height: 400px;
+	
+	margin-right: 4px;
+	float: left;
+}
+
+.tcot1 img{
+	width: 100%;
+	height: 300px;
+	float: left;
+}
+
+.tcot1 a{
+	text-decoration: none;
+}
+.tcot1 h3{
+	color:#333;
+}
+.tcot1 h3:hover{
+	color:blue;
+}
+.tcot1 strong{
+	color: #999;
+}
+.tcot2{
+	width: 350px;
+	height: 400px;
+	
+	margin-left: 4px;
+	float: left;
+}
+.tcot2 img{
+	width: 100%;
+	height: 150px;
+}
+.tcot2 a{
+	text-decoration: none;
+	
+	
+}
+.tcot2 h3{
+	color:#333;
+}
+.tcot2 h3:hover{
+	color:blue;
+}
+.tcot2 strong{
+	color:#999;
+}
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+.mainlist
+{
+	float:left;
+	width: 100%;
+	height: auto;
+	border-top:1px solid #999;
+}
+.mainlist a{
+	text-decoration: none;
+	width: 200px;
+	
+}
+.mainlist img{
+	margin-top: 5px;
+	margin-bottom: 5px;
+	width: 30%;
+	height: 30%;
+	float:left;
+}
+.mainlist h3{
+	margin-top: 5px;
+	margin-bottom: 5px;
+	color: #333;
+}
+.mainlist h3:hover{
+	color: blue;
+}
+.mainlist p{
+	clear: both;
+	border-bottom: 1px solid #999;
+}
+.mainlist strong{
+	color:#999;
+}
